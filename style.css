@@ -45,7 +45,7 @@ a {
 }
 
 .btn {
-  background: linear-gradient(135deg, #ff0000, #cc0000); /* تدرج أحمر */
+  background: linear-gradient(135deg, #000000, #080808); /* تدرج أحمر */
   color: white;
   width: 227px;
   height: 48px;
@@ -63,7 +63,7 @@ a {
 }
 
 .btn:hover {
-  background: linear-gradient(135deg, #ff4d4d, #b30000); /* لون عند الهوفر */
+  background: linear-gradient(135deg, #000000, #080808); /* لون عند الهوفر */
   box-shadow: 0 0 20px rgba(255, 0, 0, 0.9); /* توهج أقوى */
   transform: scale(1.05); /* تكبير بسيط */
 }
